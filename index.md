@@ -6,4 +6,4 @@ The Wyre Bot is here to help you request money to China. You can ask it for the 
 
 You can use the Wyre Bot on Facebook Messenger or WeChat.
 
-Read the <a href="" >Privacy Policy</a>.
+Read the <a href="https://wyrebot.github.io/wyre_bot_page/privacy" >Privacy Policy</a>.
