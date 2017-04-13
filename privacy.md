@@ -1,5 +1,5 @@
 <h1><strong>WYRE BOT PRIVACY POLICY</strong></h1>
-<p>This privacy policy governs your use of the software application <a href="https://www.facebook.com/sendwyre/">Wyre Bot</a> &nbsp;(&ldquo;Application&rdquo;) for Facebook Messenger that was created by Wyre Inc. The Application allows Facebook users to check the current exchange rate and request payment from another user through the sendwyre.com platform.</p>
+<p>This privacy policy governs your use of the software application <a href="https://www.facebook.com/sendwyre/" target="_blank">Wyre Bot</a> &nbsp;(&ldquo;Application&rdquo;) for Facebook Messenger that was created by Wyre Inc. The Application allows Facebook users to check the current exchange rate and request payment from another user through the sendwyre.com platform.</p>
 <h3><strong>User Provided Information</strong></h3>
 <p>The Application does not collect any personal information. To use the Application the user is a registered user of Facebook and does not provide registration data to the Application.</p>
 <p>We may use the chat log from time to time to learn about user behaviors and make changes to the Application.</p>
