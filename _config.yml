@@ -1,1 +1,15 @@
-theme: jekyll-theme-cayman
+title: Flickr Bot
+tagline: The bot sends you photos of cities and famous people.
+author:
+  name : Recime Inc
+  url : "https://recime.io"
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown
+
+sass:
+    sass_dir: _sass
