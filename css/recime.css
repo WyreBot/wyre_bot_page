@@ -9,8 +9,12 @@
     width: 80px!important;
 }
 
+.project-name {
+  color: #ffffff !important;
+
+}
 .project-tagline {
-  color: #74b1be!important;
+  color: #ffffff !important;
 }
 .main-content h1, h2, h3 {
     color: #20515b !important;
