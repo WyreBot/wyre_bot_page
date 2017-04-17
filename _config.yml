@@ -1,8 +1,8 @@
-title: Flickr Bot
-tagline: The bot sends you photos of cities and famous people.
+title: Wyre Transfer Bot
+tagline: The bot that allows you to send money between China and other countries.
 author:
-  name : Recime Inc
-  url : "https://recime.io"
+  name : Wyre
+  url : "https://www.sendwyre.com/"
 
 # Gems
 gems:
